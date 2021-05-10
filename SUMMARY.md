@@ -1,6 +1,8 @@
 # Summary
 
 * [소개](README.md)
+  * [MFPlayer 구조](mfplayer/mfplayer.md)
+  * [MFPlayer 재생](mfplayer/play.md)
 * [시작하기](start/README.md)
   * [스케줄 만들기](start/schedule/create.md)
   * [시점접속교 시나리오 추가](start/scenario/create.md)
@@ -24,6 +26,5 @@
   * [재생 시간 설정](schedule/repeat.md)
   * [스케줄 확인](schedule/preview.md)
   * [예시](schedule/example.md)
-* [테스트 재생](test/test.md)
-* [제어창](control/window.md)
-* [원격 제어](control/remote.md)
+* [테스트 재생](testPlay/README.md)
+* [제어창](control/README.md)
