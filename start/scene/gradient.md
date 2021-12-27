@@ -6,7 +6,7 @@
 <img src="./img/gradient/addGradientRight.jpg" />
 
 ## 색상 흐름 연출
-색상이 흐름 연출은 선택한 색상들이 점진적으로 연결되어 반복 형태로 흐르는 연출입니다.
+색상 흐름의 그라데이션 연출은 선택한 색상들이 점진적으로 연결되어 반복 형태로 흐르는 연출입니다.
 
 <img src="./img/gradient/gradientRight.jpg" />
 
@@ -22,7 +22,7 @@
 ### 연출 타입 선택
 색상을 설정하기 위해서 `색상 흐름` 을 선택합니다.
 예제에서는 `색상 흐름`으로 설정할 때 같이 설정되는 기본 값을 그대로 사용하겠습니다.
-흐름 방향, 색상, 속도에 대해서는 [색상 흐름](../../scene/gradient.md) 에서 자세하게 설명하겠습니다.  
+흐름 방향, 색상, 변화시간(초)에 대해서는 [색상 흐름](../../scene/gradient.md) 에서 자세하게 설명하겠습니다.  
 
 <img src="./img/gradient/setScene.jpg" style="border: 1px solid #e2e2e2"/>
 

@@ -7,6 +7,6 @@
 
 <img src="./img/editTest.jpg" style="border: 1px solid #e2e2e2"/>
 
-편집 화면에는 시나리오 편집만 존재하며 편집하는 방법은 스케줄 편집화면에서 시나리오를 편집하는 방법과 동일합니다.  [시나리오 편집](../schedule/scenarios.md)
+편집 화면에는 시나리오 편집만 존재하며 편집하는 방법은 스케줄 편집화면에서 시나리오를 편집하는 방법과 동일합니다. [시나리오 편집](../schedule/scenarios.md)
 
 <img src="./img/testEditor.jpg" style="border: 1px solid #e2e2e2"/>

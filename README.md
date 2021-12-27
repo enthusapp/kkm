@@ -1,5 +1,5 @@
 # 세종시 금강 보행교 조명 제어 시스템 메뉴얼
-MFPlayer(Media Facade Player) v0.0.1
+MFPlayer(Media Facade Player) v1.0.0
 
 금강 보행교 미디어 파사드 제어 시스템
 
@@ -12,5 +12,5 @@ MFPlayer(Media Facade Player) v0.0.1
 
 ## MFPlayer의 주요 기능
 * 스케줄 재생
-* 영상 연출하기
+* 영상 연출
 * 연출 만들기
