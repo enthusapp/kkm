@@ -14,3 +14,5 @@ MFPlayer(Media Facade Player) v1.0.0
 * 스케줄 재생
 * 영상 연출
 * 연출 만들기
+
+[PDF 다운로드](https://drive.google.com/file/d/1ka6aNm--UOfJ7sWfToVvxStk86VaTYgz/view?usp=sharing)
